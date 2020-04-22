@@ -1,0 +1,6 @@
+.idea
+.pijul
+target
+nohup.out
+*.iml
+.ignore
